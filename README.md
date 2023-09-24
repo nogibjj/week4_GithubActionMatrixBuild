@@ -1,4 +1,4 @@
-[![CI](https://github.com/showaaaa/week4_GithubActionMatrixBuild/actions/workflows/blank.yml/badge.svg)](https://github.com/showaaaa/week4_GithubActionMatrixBuild/actions/workflows/blank.yml)
+[![Test Multiple Python Versions](https://github.com/nogibjj/week4_GithubActionMatrixBuild/actions/workflows/blank.yml/badge.svg)](https://github.com/nogibjj/week4_GithubActionMatrixBuild/actions/workflows/blank.yml)
 # week4GitHub Actions Matrix Build for Multiple Python Versions
 
 ## Matrix
